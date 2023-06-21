@@ -1,0 +1,14 @@
+{
+  "name": "calculator-2/calculator-2",
+  "type": "project",
+  "description": "A Simple Project",
+  "keywords": [],
+  "license": "",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
